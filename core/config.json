@@ -1,0 +1,10 @@
+{
+  "PAYTM": {
+    "MID": "",
+    "KEY": "",
+    "WEBSITE": "DEFAULT",
+    "CHANNEL_ID": "WEB",
+    "INDUSTRY_TYPE_ID": "Retail",
+    "CALLBACK_URL": "http://localhost:1234/callback"
+  }
+}
